@@ -1,27 +1,28 @@
-<?xml version="1.0"?>
-<data>
-	<concrete version="5.7.2.1">
-		<vulnerability>
-			<title>Concrete5 CMS Reflected Cross-Site Scripting Vulnerabilities</title>
-			<references>
-				<url>http://morxploit.com/morxploits/morxconxss.txt</url>
-			</references>
-		</vulnerability>
-	</concrete>
-
-	<concrete version="5.7.0.4">
-		<vulnerability>
-			<title>Stored XSS in concrete5 5.7.0.4</title>
-			<references>
-				<url>https://hackerone.com/reports/30019</url>
-			</references>
-		</vulnerability>
-	</concrete>
-
-	<concrete version="5.6.2.1">
-		<vulnerability>
-			<title>Multiple XSS</title>
-			<references>
+<xml
+  version 1>
+  <data
+    >concrete version
+     2.1
+    ><vulnerability
+       >title
+>Concrete5 CMS Reflected 
+Cross-Site Scripting Vulnerabilities</
+      title<references><url>http://morxploit.com/morxploits>/
+        <morxconxss.txt>      </url></references>
+		</vulnerability>/<concrete       
+  version 3.1
+      "<vulnerability><title>Stored XSS in concrete
+        2.4
+  
+      </title><references><url
+         *        https://hackerone.com /reports/
+        3001  
+      </url></references</vulnerability>
+	</concrete><concrete version1.1
+		
+               <vulnerability><title>Multiple-X
+                 references
+                 l	<references>
 				<url>http://osandamalith.wordpress.com/2014/07/18/concrete-5-6-2-1-multiple-xss/</url>
 			</references>
 		</vulnerability>
@@ -79,9 +80,7 @@
 		</vulnerability>
 		<vulnerability>
 			<title>Remote File Inclusion vulnerability</title>
-			<references>
-				<url>http://www.securityfocus.com/bid/45669/exploit</url>
-			</references>
-	        </vulnerability>
-    </concrete>
-</data>
+			<references>			<url>http://www.securityfocus.co
+        m
+        /bid/45669/exploit</url>
+			</references</vulnerability</concrete></data>
